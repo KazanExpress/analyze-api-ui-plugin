@@ -7,4 +7,4 @@ import { AnalyzeApiUiPlugin } from './plugin';
 export function plugin() {
   return new AnalyzeApiUiPlugin();
 }
-export { AnalyzeApiUiPluginSetup, AnalyzeApiUiPluginStart } from './types';
+export type { AnalyzeApiUiPluginSetup, AnalyzeApiUiPluginStart } from './types';
