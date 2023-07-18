@@ -16,7 +16,7 @@ The latest stable version is for kibana 8.6.2.
 
 | Kibana version | Command                                                                                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| 8.6.2          | `./bin/kibana-plugin install https://github.com/KazanExpress/analyze-api-ui-plugin/releases/download/8.6.3/analyzeApiUi-8.6.3.zip` |
+| 8.6.2          | `./bin/kibana-plugin install https://github.com/KazanExpress/analyze-api-ui-plugin/releases/download/8.6.2/analyzeApiUi-8.6.2.zip` |
 | 7.17.0         | `./bin/kibana-plugin install https://github.com/johtani/analyze-api-ui-plugin/releases/download/7.17.0/analyzeApiUi-7.17.0.zip`    |
 | 7.16.2         | `./bin/kibana-plugin install https://github.com/johtani/analyze-api-ui-plugin/releases/download/7.16.2/analyzeApiUi-7.16.2.zip`    |
 | 7.13.4         | `./bin/kibana-plugin install https://github.com/johtani/analyze-api-ui-plugin/releases/download/7.13.4/analyzeApiUi-7.13.4.zip`    |
